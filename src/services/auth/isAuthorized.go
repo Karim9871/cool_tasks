@@ -3,7 +3,7 @@ package auth
 import (
 	"net/http"
 	"log"
-	"github.com/Nastya-Kruglikova/cool_tasks/src/services/common"
+	"github.com/Karim9871/cool_tasks/src/services/common"
 	"github.com/alicebob/miniredis"
 )
 
