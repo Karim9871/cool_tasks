@@ -5,4 +5,5 @@ before script:
   - curl https://glide.sh/get | sh
   - glide install
 script:
+  - cd src
   - go test
